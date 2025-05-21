@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently studying at **RSRTU** (Ryazan State Radio Engineering University)
+- 🔭 Currently studying at **RSREU** (Ryazan State Radio Engineering University)
 - 🌱 Deepening my knowledge in: **Java, Spring, Docker, PostgreSQL**
 - 💡 Interested in: **Back-end development, cross-platform applications, database systems**
 - 📚 Constantly expanding my skills in software engineering
