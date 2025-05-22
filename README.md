@@ -1,4 +1,4 @@
-# Hello, I'm Nikolay Strakhov 👋
+# Hello, I'm Nicholas Strakhov 👋
 
 🎓 3rd Year Student at RSREU  
 💻 Application Developer | Java Enthusiast | .NET/Avalonia | Databases  
