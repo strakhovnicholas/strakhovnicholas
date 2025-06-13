@@ -17,7 +17,7 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
 [![Avalonia](https://img.shields.io/badge/Avalonia-FF3D00?style=for-the-badge&logo=avalonia&logoColor=white)](https://avaloniaui.net)
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io)
-[![1C](https://img.shields.io/badge/1C_Enterprise-1560BD?style=for-the-badge&logoColor=white)](https://1c.ru)
+[![1C](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/980px-1C_Company_logo.svg.png)](https://1c.ru)
 
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
