@@ -76,6 +76,7 @@ I'm a passionate software engineer with a strong foundation in backend developme
 ### Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-1A2B3C?style=for-the-badge&logo=allure&logoColor=white)
 
 
 ## 📬 Contact Me
