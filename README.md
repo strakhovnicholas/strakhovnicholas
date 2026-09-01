@@ -13,7 +13,7 @@ I'm a passionate software engineer with a strong foundation in backend developme
 ## 💼 Experience
 
 ### 🟦 QA Backend Intern  
-**T‑Bank (Tinkoff Bank)** · June 2026 – September 2026  
+**T‑Bank (Tinkoff Bank)** · June 2026 – September 2026 (3 months)
 
 - Developed a WebSocket client for real‑time market data streams and automated tests for message integrity and latency.  
 - Resolved **15+ technical debt tasks**: refactored and extended test coverage for microservices using gRPC and Apache Kafka.  
@@ -24,7 +24,7 @@ I'm a passionate software engineer with a strong foundation in backend developme
 ---
 
 ### 🟧 Software Engineer  
-**Ryazan Radio Plant JSC** · September 2025 – Present (8 months)  
+**Ryazan Radio Plant JSC** · September 2025 – June 2026 (9 months)  
 
 - Designed and implemented a socket‑based IPC subsystem (Java + Netty) for reliable data exchange between a Java module and a C++ server over a custom binary protocol in Linux.  
 - Specified the custom binary protocol (byte order, field types, command codes) in OpenAPI‑like documentation, ensuring clear communication between teams.  
