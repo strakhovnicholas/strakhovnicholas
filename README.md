@@ -19,6 +19,17 @@ I'm a passionate software engineer with a strong foundation in backend developme
 - Optimized CI/CD pipeline — reduced build time by 10 minutes and Allure report size from 60 MB to 2 MB.
 - Performed manual testing of streaming data and identified critical bugs (message loss, data corruption).
 - Participated in GitLab code reviews (up to 40 comments per MR), maintained personal checklists to reduce recurring errors.
+
+**Software Engineer**  
+*Ryazan Radio Plant JSC*  
+*September 2025 – Present (8 months)*
+
+- Designed and implemented a socket‑based IPC subsystem (Java + Netty) for reliable data exchange between a Java module and a C++ server over a custom binary protocol in Linux.
+- Specified the custom binary protocol (byte order, field types, command codes) in OpenAPI‑like documentation, ensuring clear communication between teams.
+- Implemented message integrity validation using checksums (CRC/MD5) to guarantee fault‑tolerant data transmission.
+- Configured a Netty connection pool with non‑blocking I/O, supporting 500+ concurrent sessions.
+- Set up monitoring with Prometheus and debugged network issues using Wireshark.
+- Covered critical logic with unit tests (JUnit) to ensure system stability.
   
 ## 🛠️ Tech Stack & Skills
 ### Languages & Frameworks
