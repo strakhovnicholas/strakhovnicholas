@@ -35,7 +35,6 @@ I'm a passionate software engineer with a strong foundation in backend developme
   
 ## 🛠️ Tech Stack & Skills
 ### Languages & Frameworks
-### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -43,8 +42,6 @@ I'm a passionate software engineer with a strong foundation in backend developme
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Netty](https://img.shields.io/badge/Netty-000000?style=for-the-badge&logo=netty&logoColor=white)
 ![Sockets](https://img.shields.io/badge/Sockets-0078D4?style=for-the-badge&logo=socket.io&logoColor=white)
-![Avalonia](https://img.shields.io/badge/Avalonia-FF3D00?style=for-the-badge&logo=avalonia&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
