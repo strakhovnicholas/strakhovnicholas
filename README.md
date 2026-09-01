@@ -5,10 +5,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently studying at **RSREU** (Ryazan State Radio Engineering University)
-- 🌱 Deepening my knowledge in: **Java, Spring, Docker, PostgreSQL**
-- 💡 Interested in: **Back-end development, cross-platform applications, database systems**
-- 📚 Constantly expanding my skills in software engineering
+I'm a passionate software engineer with a strong foundation in backend development, distributed systems, and databases.
+
+- 🎓 Graduated with a Bachelor's degree in **Software Engineering** from **RSREU** (Ryazan State Radio Engineering University).
+- 📚 Currently pursuing a **Master's degree** in **Mathematical Software and Information Systems Administration** — diving deeper into system architecture, data processing, and infrastructure.
+- 🔭 Worked as a **QA Backend Intern** at **T-Bank (Tinkoff Bank)** from June to September 2026, where I built a WebSocket client, optimised CI/CD, and tested microservices with gRPC and Kafka.
+- 🧠 **Currently actively studying Machine Learning:** Python (pandas, numpy, scikit-learn), mathematics for ML (linear algebra, statistics), and building my first ML projects.
+- 💡 Interested in **backend systems, microservices, database optimisation, and eventually MLOps / ML engineering**.
+- 📚 Constantly expanding my skills in software architecture, testing, and infrastructure.
 
 ## 🛠️ Tech Stack & Skills
 
