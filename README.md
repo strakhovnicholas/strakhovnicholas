@@ -10,8 +10,17 @@ I'm a passionate software engineer with a strong foundation in backend developme
 - Interested in **backend systems, microservices, database optimisation, and eventually MLOps / ML engineering**.
 - Constantly expanding my skills in software architecture, testing, and infrastructure.
 
-## 🛠️ Tech Stack & Skills
+## 💼 Experience
+**QA Backend Intern** @ T-Bank (Tinkoff Bank)  
+*June 2026 – September 2026*
 
+- Developed a WebSocket client for real-time market data streams and automated tests for message integrity and latency.
+- Resolved 15+ technical debt tasks: refactored and extended test coverage for microservices using gRPC and Apache Kafka.
+- Optimized CI/CD pipeline — reduced build time by 10 minutes and Allure report size from 60 MB to 2 MB.
+- Performed manual testing of streaming data and identified critical bugs (message loss, data corruption).
+- Participated in GitLab code reviews (up to 40 comments per MR), maintained personal checklists to reduce recurring errors.
+  
+## 🛠️ Tech Stack & Skills
 ### Languages & Frameworks
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
